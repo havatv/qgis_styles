@@ -157,13 +157,11 @@
             </Option>
           </data_defined_properties>
           <symbol clip_to_extent="1" alpha="1" type="marker" force_rhr="0" name="@4@1">
-            <layer pass="0" locked="0" class="FontMarker" enabled="1">
+            <layer pass="0" locked="0" class="SvgMarker" enabled="1">
               <prop k="angle" v="0"/>
-              <prop k="chr" v="\u0003" />
               <prop k="color" v="255,255,255,255"/>
-              <prop k="font" v="Dingbats"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="joinstyle" v="bevel"/>
+              <prop k="name" v="LeraL.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -171,7 +169,7 @@
               <prop k="outline_width" v="0"/>
               <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="outline_width_unit" v="MM"/>
-              <prop k="size" v="2"/>
+              <prop k="size" v="1.0"/>
               <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
