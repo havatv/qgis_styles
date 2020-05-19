@@ -159,7 +159,7 @@
           <symbol clip_to_extent="1" alpha="1" type="marker" force_rhr="0" name="@4@1">
             <layer pass="0" locked="0" class="FontMarker" enabled="1">
               <prop k="angle" v="0"/>
-              <prop k="chr" v=&#0003; />
+              <prop k="chr" v="\u0003" />
               <prop k="color" v="255,255,255,255"/>
               <prop k="font" v="Dingbats"/>
               <prop k="horizontal_anchor_point" v="1"/>
