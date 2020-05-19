@@ -129,7 +129,7 @@
           </data_defined_properties>
         </layer>
         <layer pass="0" locked="0" class="PointPatternFill" enabled="1">
-          <prop k="displacement_x" v="0"/>
+          <prop k="displacement_x" v="1.5"/>
           <prop k="displacement_x_map_unit_scale" v="3x:0,0,0,0,0,0"/>
           <prop k="displacement_x_unit" v="MM"/>
           <prop k="displacement_y" v="0"/>
@@ -141,7 +141,7 @@
           <prop k="distance_y" v="3"/>
           <prop k="distance_y_map_unit_scale" v="3x:0,0,0,0,0,0"/>
           <prop k="distance_y_unit" v="MM"/>
-          <prop k="offset_x" v="1.5"/>
+          <prop k="offset_x" v="0"/>
           <prop k="offset_x_map_unit_scale" v="3x:0,0,0,0,0,0"/>
           <prop k="offset_x_unit" v="MM"/>
           <prop k="offset_y" v="0"/>
