@@ -110,7 +110,7 @@
       <symbol clip_to_extent="1" alpha="1" type="fill" force_rhr="0" name="4">
         <layer pass="0" locked="0" class="SimpleFill" enabled="1">
           <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
-          <prop k="color" v="230,224,255,255"/>
+          <prop k="color" v="224,218,237,255"/>
           <prop k="joinstyle" v="bevel"/>
           <prop k="offset" v="0,0"/>
           <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
