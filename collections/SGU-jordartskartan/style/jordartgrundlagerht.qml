@@ -135,13 +135,13 @@
           <prop k="displacement_y" v="0"/>
           <prop k="displacement_y_map_unit_scale" v="3x:0,0,0,0,0,0"/>
           <prop k="displacement_y_unit" v="MM"/>
-          <prop k="distance_x" v="1.4"/>
+          <prop k="distance_x" v="3"/>
           <prop k="distance_x_map_unit_scale" v="3x:0,0,0,0,0,0"/>
           <prop k="distance_x_unit" v="MM"/>
-          <prop k="distance_y" v="1.6"/>
+          <prop k="distance_y" v="3"/>
           <prop k="distance_y_map_unit_scale" v="3x:0,0,0,0,0,0"/>
           <prop k="distance_y_unit" v="MM"/>
-          <prop k="offset_x" v="0"/>
+          <prop k="offset_x" v="1.5"/>
           <prop k="offset_x_map_unit_scale" v="3x:0,0,0,0,0,0"/>
           <prop k="offset_x_unit" v="MM"/>
           <prop k="offset_y" v="0"/>
@@ -169,7 +169,7 @@
               <prop k="outline_width" v="0"/>
               <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="outline_width_unit" v="MM"/>
-              <prop k="size" v="1.0"/>
+              <prop k="size" v="2.0"/>
               <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
